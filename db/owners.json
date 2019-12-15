@@ -1,0 +1,17 @@
+[{
+  "plan": null,
+  "plan_id": 1,
+  "plan_name": "Free",
+  "user": {
+    "id": 123456,
+    "salt": "salt",
+    "in_trial": false,
+    "email": "foo@bar.com"
+  },
+  "registration": 1234567890,
+  "usage": 1000,
+  "limit": 100000,
+  "allowed": true,
+  "api_key": "api_key_private",
+  "api_key_private": "api_key"
+}]

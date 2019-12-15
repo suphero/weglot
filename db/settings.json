@@ -1,0 +1,31 @@
+[{
+  "language_from": "en",
+  "auto_switch": true,
+  "auto_switch_fallback": null,
+  "translation_engine": 3,
+  "languages": [{
+    "language_to": "de",
+    "provider": null,
+    "enabled": true,
+    "automatic_translation_enabled": true,
+    "connect_host_destination": null
+  }],
+  "excluded_paths": [],
+  "excluded_blocks": [],
+  "custom_settings": {
+    "button_style": {
+      "is_dropdown": true,
+      "with_flags": true,
+      "flag_type": "rectangle_mat",
+      "with_name": true,
+      "full_name": true,
+      "custom_css": ""
+    },
+    "translate_email": true,
+    "translate_search": false,
+    "translate_amp": false
+  },
+  "technology_id": 1,
+  "api_key": "api_key_private",
+  "api_key_private": "api_key"
+}]
